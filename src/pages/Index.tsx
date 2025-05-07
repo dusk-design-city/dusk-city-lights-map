@@ -1,13 +1,12 @@
-
 import React from 'react';
 import Map from '../components/Map';
 import FilterPanel from '../components/FilterPanel';
 import { FilterProvider, useVenueFilters, filterVenues } from '../hooks/useVenueFilters';
-import sampleVenues from '../data/sampleVenues';
+import venues from '../data/venues';
 
 const DuskApp: React.FC = () => {
   const { filters } = useVenueFilters();
-  const filteredVenues = filterVenues(sampleVenues, filters);
+  const filteredVenues = filterVenues(venues, filters);
 
   return (
     <div className="flex h-screen">
@@ -23,8 +22,7 @@ const DuskApp: React.FC = () => {
           {filteredVenues.length} venues found
         </div>
         <div className="absolute bottom-4 right-4 text-xs text-nightlife-text-muted">
-          <p>Currently showing placeholder data.</p>
-          <p>Replace with real venue data for production.</p>
+          <p>Showing real venue data from New York City.</p>
         </div>
       </div>
     </div>

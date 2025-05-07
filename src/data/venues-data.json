@@ -1,0 +1,8815 @@
+[
+  {
+    "place_id": "ChIJIRiJaRRawokR2KyQ984qa-o",
+    "name": "The Dead Rabbit",
+    "address": "30 Water St, New York",
+    "location": {
+      "lat": 40.7032708,
+      "lng": -74.01102279999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJgQx6f4VZwokRO-KNRPprvl0",
+    "name": "Milano's Bar",
+    "address": "51 E Houston St, New York",
+    "location": {
+      "lat": 40.7246377,
+      "lng": -73.99457389999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 AM",
+        "Tuesday: 8:00 AM – 4:00 AM",
+        "Wednesday: 8:00 AM – 4:00 AM",
+        "Thursday: 8:00 AM – 4:00 AM",
+        "Friday: 8:00 AM – 4:00 AM",
+        "Saturday: 8:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJFTsuboNZwokRNAuw9taAIx4",
+    "name": "d.b.a.",
+    "address": "41 1st Ave, New York",
+    "location": {
+      "lat": 40.7243123,
+      "lng": -73.9879546
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 4:00 AM",
+        "Tuesday: 12:00 PM – 4:00 AM",
+        "Wednesday: 12:00 PM – 4:00 AM",
+        "Thursday: 12:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJVeXRdylawokRJYXkLU8yMpE",
+    "name": "169 Bar",
+    "address": "169 E Broadway, New York",
+    "location": {
+      "lat": 40.7138889,
+      "lng": -73.9897222
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 PM – 4:00 AM",
+        "Tuesday: 2:00 PM – 4:00 AM",
+        "Wednesday: 2:00 PM – 4:00 AM",
+        "Thursday: 2:00 PM – 4:00 AM",
+        "Friday: 2:00 PM – 4:00 AM",
+        "Saturday: 2:00 PM – 4:00 AM",
+        "Sunday: 2:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJ8fd4uDxawokRcLenrYjJdbg",
+    "name": "Jeremy's Ale House",
+    "address": "228 Front St, New York",
+    "location": {
+      "lat": 40.707772,
+      "lng": -74.00215
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 11:00 PM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJY-JJoYhZwokRF8FY6XrJo34",
+    "name": "Mother's Ruin",
+    "address": "18 Spring St, New York",
+    "location": {
+      "lat": 40.7213425,
+      "lng": -73.99498129999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 11:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJmxI56ylawokRPgtOK2SUNjs",
+    "name": "Clockwork Bar",
+    "address": "21 Essex St, New York",
+    "location": {
+      "lat": 40.7153775,
+      "lng": -73.99001659999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 PM – 4:00 AM",
+        "Tuesday: 2:00 PM – 4:00 AM",
+        "Wednesday: 2:00 PM – 4:00 AM",
+        "Thursday: 2:00 PM – 4:00 AM",
+        "Friday: 2:00 PM – 4:00 AM",
+        "Saturday: 2:00 PM – 4:00 AM",
+        "Sunday: 2:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJ_67GdIVZwokRCIXPZBDVgdY",
+    "name": "Tom and Jerry's",
+    "address": "288 Elizabeth St, New York",
+    "location": {
+      "lat": 40.7246306,
+      "lng": -73.99321669999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 4:00 AM",
+        "Tuesday: 12:00 PM – 4:00 AM",
+        "Wednesday: 12:00 PM – 4:00 AM",
+        "Thursday: 12:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJleh4FbVZwokRNP7Oq9M1_SQ",
+    "name": "Beyond The Pale",
+    "address": "53 Spring St, New York",
+    "location": {
+      "lat": 40.7221823,
+      "lng": -73.9966063
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1330"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30 PM – 12:00 AM",
+        "Tuesday: 4:30 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 1:00 AM",
+        "Thursday: 12:00 PM – 1:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 1:30 PM – 2:00 AM",
+        "Sunday: 2:00 PM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJx0BPHoZZwokRC2StKa5ECts",
+    "name": "Vig Bar",
+    "address": "12 Spring St, New York",
+    "location": {
+      "lat": 40.7211974,
+      "lng": -73.9946156
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 4:00 AM",
+        "Tuesday: 5:00 PM – 4:00 AM",
+        "Wednesday: 3:00 PM – 4:00 AM",
+        "Thursday: 3:00 PM – 4:00 AM",
+        "Friday: 2:00 PM – 4:00 AM",
+        "Saturday: 2:00 PM – 4:00 AM",
+        "Sunday: 2:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJpYIgKY9ZwokRG4V7_MMagCo",
+    "name": "The Crosby Bar",
+    "address": "79 Crosby St, New York",
+    "location": {
+      "lat": 40.7230708,
+      "lng": -73.9974281
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJudW_cBhawokRAKowhjWTbLU",
+    "name": "Nassau Bar",
+    "address": "118 Nassau St, New York",
+    "location": {
+      "lat": 40.7108296,
+      "lng": -74.0069382
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 12:00 – 8:00 PM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJs_vt9I9ZwokRxV5EBoQcB5E",
+    "name": "Bleecker Street Bar",
+    "address": "648 Broadway, New York",
+    "location": {
+      "lat": 40.7265693,
+      "lng": -73.99533629999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 2:00 AM",
+        "Tuesday: 12:00 PM – 2:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJEXPuhotZwokRa4EDU1xXe8E",
+    "name": "Kenn's Broome Street Bar",
+    "address": "363 W Broadway, New York",
+    "location": {
+      "lat": 40.723168,
+      "lng": -74.0028957
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 1:30 AM",
+        "Tuesday: 11:00 AM – 1:30 AM",
+        "Wednesday: 11:00 AM – 1:30 AM",
+        "Thursday: 11:00 AM – 1:30 AM",
+        "Friday: 11:00 AM – 2:30 AM",
+        "Saturday: 11:00 AM – 2:30 AM",
+        "Sunday: 11:00 AM – 1:30 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJKUZYdYtZwokRUFeMJp0FKsM",
+    "name": "Toad Hall",
+    "address": "57 Grand St, New York",
+    "location": {
+      "lat": 40.7221981,
+      "lng": -74.0035469
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 4:00 AM",
+        "Tuesday: 12:00 PM – 4:00 AM",
+        "Wednesday: 12:00 PM – 4:00 AM",
+        "Thursday: 12:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJpYdiVlVZwokR4jcynE-hZvw",
+    "name": "Soho Room NY",
+    "address": "203 Spring St, New York",
+    "location": {
+      "lat": 40.7253854,
+      "lng": -74.0033979
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 11:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJEz93dWhbwokRgFLGNZb5KG4",
+    "name": "Tavern On Reade",
+    "address": "59 Reade St, New York",
+    "location": {
+      "lat": 40.7147693,
+      "lng": -74.00662849999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJkdmV0hdbwokRBkjUsD5xL5Y",
+    "name": "Blue Haven SOUTH",
+    "address": "121 Fulton St, New York",
+    "location": {
+      "lat": 40.7100557,
+      "lng": -74.0070963
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJV6QByYhZwokR_LRSbt9s0gU",
+    "name": "Spring Lounge",
+    "address": "48 Spring St, New York",
+    "location": {
+      "lat": 40.7219308,
+      "lng": -73.99641
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 AM",
+        "Tuesday: 8:00 AM – 4:00 AM",
+        "Wednesday: 8:00 AM – 4:00 AM",
+        "Thursday: 8:00 AM – 4:00 AM",
+        "Friday: 8:00 AM – 4:00 AM",
+        "Saturday: 8:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJ3wxUrjdawokRCvceYKTpXFU",
+    "name": "Henry Street Ale House",
+    "address": "62 Henry St, Brooklyn",
+    "location": {
+      "lat": 40.699094,
+      "lng": -73.9924662
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 PM – 1:00 AM",
+        "Tuesday: 3:00 PM – 1:00 AM",
+        "Wednesday: 3:00 PM – 1:00 AM",
+        "Thursday: 3:00 PM – 2:00 AM",
+        "Friday: 3:00 PM – 3:00 AM",
+        "Saturday: 1:00 PM – 3:00 AM",
+        "Sunday: 12:00 PM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "bar"
+  },
+  {
+    "place_id": "ChIJbRvKhYNZwokR3ZmMG22ThY8",
+    "name": "One and One",
+    "address": "76 E 1st St, New York",
+    "location": {
+      "lat": 40.723274,
+      "lng": -73.9881314
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 PM – 3:00 AM",
+        "Tuesday: 2:00 PM – 3:00 AM",
+        "Wednesday: 2:00 PM – 3:00 AM",
+        "Thursday: 2:00 PM – 3:00 AM",
+        "Friday: 1:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 3:00 AM"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJZzxjaoNZwokRsBHjEbkGXk4",
+    "name": "Karma",
+    "address": "51 1st Ave, New York",
+    "location": {
+      "lat": 40.724931,
+      "lng": -73.987653
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 PM – 4:00 AM",
+        "Tuesday: 3:00 PM – 4:00 AM",
+        "Wednesday: 3:00 PM – 4:00 AM",
+        "Thursday: 3:00 PM – 4:00 AM",
+        "Friday: 3:00 PM – 4:00 AM",
+        "Saturday: 1:00 PM – 4:00 AM",
+        "Sunday: 1:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJC5CfUYBZwokR-EDRy1grj50",
+    "name": "The Delancey Rooftop",
+    "address": "168 Delancey St, New York",
+    "location": {
+      "lat": 40.71797129999999,
+      "lng": -73.9852887
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 6:00 PM – 12:00 AM",
+        "Thursday: 6:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 5:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJw4UQz41ZwokRh2eyeWg5FA4",
+    "name": "The Palace",
+    "address": "380 Canal St, New York",
+    "location": {
+      "lat": 40.7210585,
+      "lng": -74.00447869999999
+    },
+    "opening_hours": null,
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJoamdVWRZwokRH_hoTNbhodM",
+    "name": "Loosie's Nightclub",
+    "address": "145 Bowery, New York",
+    "location": {
+      "lat": 40.7189485,
+      "lng": -73.99440249999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 PM – 4:00 AM",
+        "Friday: 11:00 PM – 4:00 AM",
+        "Saturday: 11:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJYbxKJmlZwokRyaASxd_iOyw",
+    "name": "Outer Heaven",
+    "address": "191 Chrystie St, New York",
+    "location": {
+      "lat": 40.722036,
+      "lng": -73.9924169
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 PM – 2:00 AM",
+        "Thursday: 8:00 PM – 3:00 AM",
+        "Friday: 8:00 PM – 4:00 AM",
+        "Saturday: 8:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJx-YCLIdZwokRWxdzML7Ogw4",
+    "name": "The DL | Best Rooftop Lounge NYC",
+    "address": "95 Delancey St 3rd Floor, New York",
+    "location": {
+      "lat": 40.7186326,
+      "lng": -73.9892237
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 PM – 2:00 AM",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 4:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJfQYW1oVZwokRfb__yYPWTqQ",
+    "name": "The Box",
+    "address": "189 Chrystie St, New York",
+    "location": {
+      "lat": 40.7218579,
+      "lng": -73.992132
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 PM – 4:00 AM",
+        "Thursday: 11:00 PM – 4:00 AM",
+        "Friday: 11:00 PM – 4:00 AM",
+        "Saturday: 11:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJ4equ8olZwokRHEn8MagHhkw",
+    "name": "The Blond",
+    "address": "11 Howard St, New York",
+    "location": {
+      "lat": 40.71921690000001,
+      "lng": -74.0001156
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 12:00 AM",
+        "Tuesday: 5:00 PM – 12:00 AM",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 4:00 AM",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 5:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJDQla66BZwokRT0WCxn9pkUc",
+    "name": "Evol NewYork",
+    "address": "2 Thompson St 2nd Fl, New York",
+    "location": {
+      "lat": 40.7219417,
+      "lng": -74.00499289999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 PM – 3:00 AM",
+        "Friday: 10:00 PM – 4:00 AM",
+        "Saturday: 10:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJbWNeLYFZwokRUsKnHSHXmjw",
+    "name": "Mehanata Bulgarian Bar",
+    "address": "113 Ludlow St, New York",
+    "location": {
+      "lat": 40.71946459999999,
+      "lng": -73.9887943
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 8:00 PM – 4:00 AM",
+        "Friday: 8:00 PM – 4:00 AM",
+        "Saturday: 8:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJSXK5xg1ZwokRUWFey1ulBVk",
+    "name": "Public Arts",
+    "address": "215 Chrystie St, New York",
+    "location": {
+      "lat": 40.7230512,
+      "lng": -73.99177999999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 PM – 4:00 AM",
+        "Friday: 11:00 PM – 4:00 AM",
+        "Saturday: 11:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJwS6UbYRZwokRV2-6w3CAVPE",
+    "name": "Rumpus Room",
+    "address": "249 Eldridge St, New York",
+    "location": {
+      "lat": 40.7229243,
+      "lng": -73.9897168
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 PM – 4:00 AM",
+        "Saturday: 10:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJleZvqmdZwokRXA0FbYUnSzA",
+    "name": "VIRGO New York",
+    "address": "324 Grand St, New York",
+    "location": {
+      "lat": 40.7172193,
+      "lng": -73.9903698
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "2100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "2100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "2100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 9:00 PM – 3:00 AM",
+        "Friday: 9:00 PM – 3:00 AM",
+        "Saturday: 9:00 PM – 3:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJne9SzYVZwokRGJ8wLdz9tos",
+    "name": "205 Club",
+    "address": "205 Chrystie St, New York",
+    "location": {
+      "lat": 40.722356,
+      "lng": -73.9918813
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 PM – 4:00 AM",
+        "Saturday: 10:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJ1WRfI7FZwokRsszO9GbCOgY",
+    "name": "House of X",
+    "address": "215 Chrystie St, New York",
+    "location": {
+      "lat": 40.7231104,
+      "lng": -73.9920935
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 PM – 2:00 AM",
+        "Thursday: 10:00 PM – 4:00 AM",
+        "Friday: 10:00 PM – 4:00 AM",
+        "Saturday: 10:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJeTrmFvpbwokRbo0aBNxU6xg",
+    "name": "Concept",
+    "address": "50 Bowery # Cellar, New York",
+    "location": {
+      "lat": 40.715886,
+      "lng": -73.99663149999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 PM – 4:00 AM",
+        "Friday: 11:00 PM – 4:00 AM",
+        "Saturday: 11:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJ1fm1DYtZwokRXBf8UVZVATk",
+    "name": "Club Room at Soho Grand",
+    "address": "310 W Broadway, New York",
+    "location": {
+      "lat": 40.7221457,
+      "lng": -74.0046268
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 PM – 4:00 AM",
+        "Thursday: 7:00 PM – 4:00 AM",
+        "Friday: 7:00 PM – 4:00 AM",
+        "Saturday: 7:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJOxNibI9ZwokRXEUhYNXr3FA",
+    "name": "Gospel",
+    "address": "281 Lafayette St, New York",
+    "location": {
+      "lat": 40.7239548,
+      "lng": -73.996038
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 PM – 3:00 AM",
+        "Thursday: 11:00 PM – 4:00 AM",
+        "Friday: 11:00 PM – 4:00 AM",
+        "Saturday: 11:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "nightclub"
+  },
+  {
+    "place_id": "ChIJeTVZToFZwokROgEcdxSW_nc",
+    "name": "Ludlow House",
+    "address": "139 Ludlow St, New York",
+    "location": {
+      "lat": 40.7205409,
+      "lng": -73.9883859
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 2:00 AM",
+        "Friday: 9:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJJSmYANxbwokRSGfMrgoIdZQ",
+    "name": "Rex NY Cigar Club",
+    "address": "126 Pearl St 2nd floor, New York",
+    "location": {
+      "lat": 40.7048731,
+      "lng": -74.0086534
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 1:00 – 9:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJNy4bCXNbwokRfv6ZbJiSL9M",
+    "name": "Lawn Club",
+    "address": "1 Fulton St, New York",
+    "location": {
+      "lat": 40.7064675,
+      "lng": -74.0030615
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 4:00 – 10:00 PM",
+        "Wednesday: 3:00 – 11:00 PM",
+        "Thursday: 3:00 – 11:00 PM",
+        "Friday: 2:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 – 10:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJcaAHHTFawokRFrXMGh7txWE",
+    "name": "DUMBO House",
+    "address": "55 Water St, Brooklyn",
+    "location": {
+      "lat": 40.70362,
+      "lng": -73.99164999999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 2:00 AM",
+        "Saturday: 8:00 AM – 2:00 AM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJuZW8II1ZwokRijLI0Vgf6pw",
+    "name": "The Shelter Club",
+    "address": "150 Varick St, New York",
+    "location": {
+      "lat": 40.7259949,
+      "lng": -74.0054114
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "day": 6,
+            "time": "2100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 9:00 PM – 5:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJrX-F5vdYwokRtaqUgQoGBsc",
+    "name": "Roma Club New York",
+    "address": "66 Gold St, New York",
+    "location": {
+      "lat": 40.7092796,
+      "lng": -74.0049185
+    },
+    "opening_hours": null,
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJ_xz90IpZwokRi8ybUbuzYBY",
+    "name": "Spring Place (New York)",
+    "address": "6 St Johns Ln, New York",
+    "location": {
+      "lat": 40.7208609,
+      "lng": -74.00609419999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJp5rkJkVZwokRPK4pioDf8PQ",
+    "name": "LaGrand GreenHouse Cannabis Club",
+    "address": "302 Grand St, New York",
+    "location": {
+      "lat": 40.7176345,
+      "lng": -73.9917242
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2259"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 10:59 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJycgQ649ZwokRzQaPtEoIO38",
+    "name": "Zero Bond",
+    "address": "0 Bond St, New York",
+    "location": {
+      "lat": 40.72704359999999,
+      "lng": -73.9947447
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 1:00 AM",
+        "Tuesday: 9:00 AM – 2:00 AM",
+        "Wednesday: 9:00 AM – 2:00 AM",
+        "Thursday: 9:00 AM – 2:00 AM",
+        "Friday: 9:00 AM – 2:00 AM",
+        "Saturday: 5:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJj51eKxlawokRQEBMAHEySD0",
+    "name": "FlashDancers Downtown",
+    "address": "59 Murray St, New York",
+    "location": {
+      "lat": 40.71435,
+      "lng": -74.0098
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 4:00 AM",
+        "Tuesday: 5:00 PM – 4:00 AM",
+        "Wednesday: 5:00 PM – 4:00 AM",
+        "Thursday: 5:00 PM – 4:00 AM",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 5:00 PM – 4:00 AM",
+        "Sunday: 8:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJo6w3KHBbwokR5tTMIM5SAI4",
+    "name": "NEXUS Club New York",
+    "address": "100 Church St 7th Floor, New York",
+    "location": {
+      "lat": 40.7132993,
+      "lng": -74.0101098
+    },
+    "opening_hours": null,
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJzYyM0I1ZwokR4pGMbtSi4-U",
+    "name": "Rapha New York",
+    "address": "159 Prince St, New York",
+    "location": {
+      "lat": 40.7260461,
+      "lng": -74.0012477
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJ3SHlYQxbwokRYwdBroqB4Kg",
+    "name": "Cipriani Club 55",
+    "address": "55 Wall St, New York",
+    "location": {
+      "lat": 40.7060799,
+      "lng": -74.0093198
+    },
+    "opening_hours": null,
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJhUFwNxZZwokRBpmmDlsAtxc",
+    "name": "Club 57",
+    "address": "57 St Marks Pl, New York",
+    "location": {
+      "lat": 40.7282239,
+      "lng": -73.9864784
+    },
+    "opening_hours": null,
+    "keyword_match": "club"
+  },
+  {
+    "place_id": "ChIJB2KyA51ZwokRyWZr8ZgaeRA",
+    "name": "Holiday Cocktail Lounge",
+    "address": "75 St Marks Pl, New York",
+    "location": {
+      "lat": 40.727955,
+      "lng": -73.985732
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 2:00 AM",
+        "Tuesday: 8:00 AM – 2:00 AM",
+        "Wednesday: 8:00 AM – 2:00 AM",
+        "Thursday: 8:00 AM – 2:00 AM",
+        "Friday: 8:00 AM – 2:00 AM",
+        "Saturday: 8:00 AM – 2:00 AM",
+        "Sunday: 8:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJMSRJCF1bwokRHkqp4hxMm-s",
+    "name": "Lounge on Pearl",
+    "address": "88 Wall St, New York",
+    "location": {
+      "lat": 40.7054649,
+      "lng": -74.0076406
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJGVZ3-4NZwokRJXyky6_od9c",
+    "name": "The Skinny Bar and Lounge",
+    "address": "174 Orchard St, New York",
+    "location": {
+      "lat": 40.72154099999999,
+      "lng": -73.988186
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 4:00 AM",
+        "Tuesday: 4:00 PM – 4:00 AM",
+        "Wednesday: 4:00 PM – 4:00 AM",
+        "Thursday: 4:00 PM – 4:00 AM",
+        "Friday: 4:00 PM – 4:00 AM",
+        "Saturday: 3:00 PM – 4:00 AM",
+        "Sunday: 3:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJ9Xkow4NZwokRRdEq8ppSDI4",
+    "name": "The Lobby Bar",
+    "address": "180 Ludlow St, New York",
+    "location": {
+      "lat": 40.7217864,
+      "lng": -73.98736989999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJkQhyD4VZwokRkuLC_HdUQsU",
+    "name": "Sláinte Bar and Lounge",
+    "address": "304 Bowery, New York",
+    "location": {
+      "lat": 40.7247919,
+      "lng": -73.9927436
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 1:00 AM",
+        "Tuesday: 12:00 PM – 1:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 3:00 AM",
+        "Friday: 12:00 PM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJi4-Uz4ZZwokRNTECo_4FKvs",
+    "name": "Lucky Jack's",
+    "address": "129 Orchard St, New York",
+    "location": {
+      "lat": 40.7196945,
+      "lng": -73.9896684
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 PM – 4:00 AM",
+        "Tuesday: 2:00 PM – 4:00 AM",
+        "Wednesday: 2:00 PM – 4:00 AM",
+        "Thursday: 2:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJQxzbx4NZwokRfWXvfisf3Eo",
+    "name": "The Mercury Lounge",
+    "address": "217 E Houston St, New York",
+    "location": {
+      "lat": 40.7221676,
+      "lng": -73.9867459
+    },
+    "opening_hours": null,
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJCXuheYxZwokRpofdtpVghKQ",
+    "name": "Socialista New York",
+    "address": "376 W Broadway 2nd Floor, New York",
+    "location": {
+      "lat": 40.7235595,
+      "lng": -74.00295559999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "2100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "2100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "2100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 9:00 PM – 2:00 AM",
+        "Friday: 9:00 PM – 2:00 AM",
+        "Saturday: 9:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJ3w-2Q4FZwokRktq8UQnQxJ4",
+    "name": "MAZAAR LOUNGE",
+    "address": "137 Essex St, New York",
+    "location": {
+      "lat": 40.7202963,
+      "lng": -73.98750609999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 2:00 AM",
+        "Tuesday: 5:00 PM – 2:00 AM",
+        "Wednesday: 5:00 PM – 2:00 AM",
+        "Thursday: 5:00 PM – 2:00 AM",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 5:00 PM – 4:00 AM",
+        "Sunday: 5:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJU062dhBawokR0RWbIZkSW0Q",
+    "name": "Black Hound Bar & Lounge",
+    "address": "301 S End Ave, New York",
+    "location": {
+      "lat": 40.7103436,
+      "lng": -74.016542
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 5:00 PM – 12:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJl9Udl4pZwokROhpEh4FhXaA",
+    "name": "Paul's Cocktail Lounge",
+    "address": "2 6th Ave, New York",
+    "location": {
+      "lat": 40.71938129999999,
+      "lng": -74.0047809
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "2200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "2200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 PM – 4:00 AM",
+        "Wednesday: 10:00 PM – 4:00 AM",
+        "Thursday: 10:00 PM – 4:00 AM",
+        "Friday: 10:00 PM – 4:00 AM",
+        "Saturday: 10:00 PM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJAwTF3IxZwokRV37b-jNKkU8",
+    "name": "Terrace on 7",
+    "address": "246 Spring St, New York",
+    "location": {
+      "lat": 40.7252839,
+      "lng": -74.0054981
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 10:30 PM",
+        "Tuesday: 6:30 AM – 10:30 PM",
+        "Wednesday: 6:30 AM – 10:30 PM",
+        "Thursday: 6:30 AM – 10:30 PM",
+        "Friday: 6:30 AM – 10:30 PM",
+        "Saturday: 6:30 AM – 10:30 PM",
+        "Sunday: 6:30 AM – 10:30 PM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJL_oFdRhawokR84uzMn714cs",
+    "name": "W XYZ Bar and Lounge at Aloft Manhattan Downtown",
+    "address": "49-53 Ann St, New York",
+    "location": {
+      "lat": 40.7103826,
+      "lng": -74.006835
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJXXCcUrlZwokR_HadYXDChmY",
+    "name": "The Bar on Mulberry LLC",
+    "address": "240 Mulberry St Lower Level, New York",
+    "location": {
+      "lat": 40.7228238,
+      "lng": -73.99573409999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "2100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 6:00 PM – 2:00 AM",
+        "Wednesday: 6:00 PM – 2:00 AM",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 2:00 AM",
+        "Saturday: 6:00 PM – 2:00 AM",
+        "Sunday: 9:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "lounge"
+  },
+  {
+    "place_id": "ChIJT04J54pZwokR8ScZIBBgLTk",
+    "name": "Nancy Whiskey Pub",
+    "address": "1 Lispenard St, New York",
+    "location": {
+      "lat": 40.7206207,
+      "lng": -74.0049722
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJueUCrBBawokRiw9LMJFm0_o",
+    "name": "O'Hara's Restaurant and Pub",
+    "address": "120 Cedar St, New York",
+    "location": {
+      "lat": 40.7095008,
+      "lng": -74.0126642
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJ4ayAJRhawokRjzLOsdPWMCs",
+    "name": "The Irish American Pub",
+    "address": "17 John St, New York",
+    "location": {
+      "lat": 40.7098673,
+      "lng": -74.0087439
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 2:00 AM",
+        "Tuesday: 10:00 AM – 2:00 AM",
+        "Wednesday: 10:00 AM – 4:00 AM",
+        "Thursday: 10:00 AM – 4:00 AM",
+        "Friday: 10:00 AM – 4:00 AM",
+        "Saturday: 10:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJ4_AAQhdawokRzbYlVLyzKlk",
+    "name": "Trinity Place",
+    "address": "115 Broadway, New York",
+    "location": {
+      "lat": 40.708882,
+      "lng": -74.01143259999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 12:00 AM",
+        "Tuesday: 12:30 – 1:00 AM, 11:30 AM – 12:00 AM",
+        "Wednesday: 12:30 – 1:00 AM, 11:30 AM – 12:00 AM",
+        "Thursday: 12:30 – 1:00 AM, 11:30 AM – 12:00 AM",
+        "Friday: 12:30 – 1:00 AM, 11:30 AM – 12:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJeRqd0JpZwokRG4UKjO1bU4I",
+    "name": "Swift Hibernian Lounge",
+    "address": "34 E 4th St, New York",
+    "location": {
+      "lat": 40.727329,
+      "lng": -73.99225229999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 4:00 AM",
+        "Tuesday: 12:00 PM – 4:00 AM",
+        "Wednesday: 12:00 PM – 4:00 AM",
+        "Thursday: 12:00 PM – 4:00 AM",
+        "Friday: 12:00 PM – 4:00 AM",
+        "Saturday: 12:00 PM – 4:00 AM",
+        "Sunday: 12:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJQ9CgChRawokRIpsalX0vrb0",
+    "name": "White Horse Tavern - Financial District",
+    "address": "25 Bridge St, New York",
+    "location": {
+      "lat": 40.703806,
+      "lng": -74.012371
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 1:00 AM",
+        "Tuesday: 10:30 AM – 1:00 AM",
+        "Wednesday: 10:30 AM – 1:00 AM",
+        "Thursday: 10:30 AM – 2:00 AM",
+        "Friday: 10:30 AM – 2:00 AM",
+        "Saturday: 10:30 AM – 2:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJyYiySj1awokRueQwalZ6hmA",
+    "name": "T.J. Byrnes Bar & Restaurant",
+    "address": "Behind 55 Fulton Market, 77 Fulton St, New York",
+    "location": {
+      "lat": 40.7089906,
+      "lng": -74.00448399999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 1:00 AM",
+        "Tuesday: 12:00 PM – 1:00 AM",
+        "Wednesday: 12:00 PM – 1:00 AM",
+        "Thursday: 12:00 PM – 1:00 AM",
+        "Friday: 12:00 PM – 1:00 AM",
+        "Saturday: 1:00 PM – 1:00 AM",
+        "Sunday: 1:00 PM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJEUf6rIlZwokRHhWVMHCKqCY",
+    "name": "Onieal's",
+    "address": "174 Grand St, New York",
+    "location": {
+      "lat": 40.7196972,
+      "lng": -73.9978939
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 2:00 AM",
+        "Tuesday: 11:30 AM – 2:00 AM",
+        "Wednesday: 11:30 AM – 2:00 AM",
+        "Thursday: 11:30 AM – 3:00 AM",
+        "Friday: 11:30 AM – 3:00 AM",
+        "Saturday: 11:30 AM – 3:00 AM",
+        "Sunday: 11:30 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJc4zj94hZwokRTUlDTVS0rik",
+    "name": "Mulberry Street Bar",
+    "address": "176 1/2 Mulberry St, New York",
+    "location": {
+      "lat": 40.7200885,
+      "lng": -73.9968914
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJd3-uGZ1ZwokR2fCvxWdgWqY",
+    "name": "The Grafton",
+    "address": "126 1st Ave, New York",
+    "location": {
+      "lat": 40.7272468,
+      "lng": -73.9853454
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0845"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 PM – 2:00 AM",
+        "Tuesday: 2:00 PM – 2:00 AM",
+        "Wednesday: 2:00 PM – 2:00 AM",
+        "Thursday: 2:00 PM – 3:00 AM",
+        "Friday: 2:00 PM – 3:30 AM",
+        "Saturday: 9:00 AM – 3:30 AM",
+        "Sunday: 8:45 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJCw6SmaxZwokRIzJBmyt6E4k",
+    "name": "Carragher's",
+    "address": "Basement Bar, 17 John St, New York",
+    "location": {
+      "lat": 40.7099263,
+      "lng": -74.0087946
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 2:00 AM",
+        "Tuesday: 10:00 AM – 2:00 AM",
+        "Wednesday: 10:00 AM – 4:00 AM",
+        "Thursday: 10:00 AM – 4:00 AM",
+        "Friday: 10:00 AM – 4:00 AM",
+        "Saturday: 10:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJzch8PBZawokRlpx4GoWmnXM",
+    "name": "The Full Shilling",
+    "address": "160 Pearl St #1, New York",
+    "location": {
+      "lat": 40.7058199,
+      "lng": -74.00757829999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJVVXR1B5awokRR-5KS_hE0uE",
+    "name": "Monk McGinns",
+    "address": "57 Murray St, New York",
+    "location": {
+      "lat": 40.7143711,
+      "lng": -74.00969429999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJ7-SBzh9awokRKB5djQIBiC0",
+    "name": "Zutto Japanese American Pub",
+    "address": "77 Hudson St, New York",
+    "location": {
+      "lat": 40.7184362,
+      "lng": -74.0090421
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJzfaXRz1awokRr3iYyWFIRYo",
+    "name": "Ryan Maguire's Bar & Restaurant",
+    "address": "28 Cliff St, New York",
+    "location": {
+      "lat": 40.7080137,
+      "lng": -74.0050629
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "pub"
+  },
+  {
+    "place_id": "ChIJGSGOWZtZwokRlIEcbFo4FjE",
+    "name": "Cooper's Craft & Cocktails",
+    "address": "87 2nd Ave, New York",
+    "location": {
+      "lat": 40.7269839,
+      "lng": -73.9890629
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 2:00 AM",
+        "Tuesday: 12:00 PM – 2:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJ_2Qbzo1ZwokRVPBrvp-a9qk",
+    "name": "Milady's",
+    "address": "160 Prince St, New York",
+    "location": {
+      "lat": 40.7260176,
+      "lng": -74.00157229999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJMZp8OMRbwokRj7Ky0oSz8RA",
+    "name": "Recreation",
+    "address": "26 Ann St, New York",
+    "location": {
+      "lat": 40.7106455,
+      "lng": -74.007977
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 2:00 AM",
+        "Friday: 7:00 AM – 2:00 AM",
+        "Saturday: 7:00 AM – 2:00 AM",
+        "Sunday: 7:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJH8Pll4pZwokRUyQh1WPYego",
+    "name": "Gilligan's",
+    "address": "310 W Broadway, New York",
+    "location": {
+      "lat": 40.7221457,
+      "lng": -74.0046268
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 – 10:00 PM",
+        "Tuesday: 3:00 – 10:00 PM",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 3:00 – 11:00 PM",
+        "Saturday: 2:00 – 11:00 PM",
+        "Sunday: 2:00 – 10:00 PM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJb6KTyodZwokR-3P63Pvd6Ng",
+    "name": "Fig. 19",
+    "address": "131 Chrystie St, New York",
+    "location": {
+      "lat": 40.7195451,
+      "lng": -73.99366490000001
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 4:00 AM",
+        "Saturday: 6:00 PM – 4:00 AM",
+        "Sunday: 6:00 PM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJuz7Sf3nzwokRcCNO5pFxH6s",
+    "name": "Botanica Bar",
+    "address": "47 E Houston St, New York",
+    "location": {
+      "lat": 40.7247004,
+      "lng": -73.9947523
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 1:00 AM",
+        "Tuesday: 5:00 PM – 1:00 AM",
+        "Wednesday: 5:00 PM – 1:00 AM",
+        "Thursday: 5:00 PM – 2:00 AM",
+        "Friday: 5:00 PM – 2:00 AM",
+        "Saturday: 4:00 PM – 2:00 AM",
+        "Sunday: 5:00 PM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJ_yP8g4NZwokRGwO9GVZmp8o",
+    "name": "Emma Peel Room",
+    "address": "266 Broome St, New York",
+    "location": {
+      "lat": 40.7183101,
+      "lng": -73.9905584
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 4:00 AM",
+        "Tuesday: 1:00 PM – 4:00 AM",
+        "Wednesday: 1:00 PM – 4:00 AM",
+        "Thursday: 1:00 PM – 4:00 AM",
+        "Friday: 1:00 PM – 4:00 AM",
+        "Saturday: 1:00 PM – 4:00 AM",
+        "Sunday: 1:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJDbQMBIdZwokRVS4L8B8V5SA",
+    "name": "Attaboy",
+    "address": "134 Eldridge St, New York",
+    "location": {
+      "lat": 40.7189136,
+      "lng": -73.99147789999999
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 3:00 AM",
+        "Tuesday: 5:00 PM – 3:00 AM",
+        "Wednesday: 5:00 PM – 3:00 AM",
+        "Thursday: 5:00 PM – 3:00 AM",
+        "Friday: 5:00 PM – 3:00 AM",
+        "Saturday: 5:00 PM – 3:00 AM",
+        "Sunday: 5:00 PM – 3:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJEeQFKVZbwokRa3zckc-fIio",
+    "name": "WarrenPeace",
+    "address": "77 Warren St, New York",
+    "location": {
+      "lat": 40.71503269999999,
+      "lng": -74.0103941
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 4:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJ5T2ntSlawokRZpwIhBG3oxM",
+    "name": "Bar Belly",
+    "address": "14 Orchard St, New York",
+    "location": {
+      "lat": 40.7151381,
+      "lng": -73.9916374
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 1:00 AM",
+        "Tuesday: 5:00 PM – 1:00 AM",
+        "Wednesday: 5:00 PM – 1:00 AM",
+        "Thursday: 4:00 PM – 2:00 AM",
+        "Friday: 4:00 PM – 3:00 AM",
+        "Saturday: 4:00 PM – 3:00 AM",
+        "Sunday: 4:00 PM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJW3GbtYVZwokRr_MFQoKiHws",
+    "name": "TWO FIFTEEN",
+    "address": "PUBLIC Hotel, 215 Chrystie St, New York",
+    "location": {
+      "lat": 40.7230708,
+      "lng": -73.9920288
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 PM – 2:00 AM",
+        "Thursday: 5:00 PM – 2:00 AM",
+        "Friday: 5:00 PM – 2:00 AM",
+        "Saturday: 5:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJ61jm4H9bwokRXQehusts-aY",
+    "name": "Split Eights",
+    "address": "40 Exchange Place Ground Floor, New York",
+    "location": {
+      "lat": 40.705866,
+      "lng": -74.01019040000001
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30 PM – 2:00 AM",
+        "Tuesday: 4:30 PM – 2:00 AM",
+        "Wednesday: 4:30 PM – 2:00 AM",
+        "Thursday: 4:30 PM – 2:00 AM",
+        "Friday: 4:30 PM – 2:00 AM",
+        "Saturday: 4:30 PM – 2:00 AM",
+        "Sunday: 4:30 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJbz0iOp1bwokR5duVkhyBKF4",
+    "name": "Cocktail Bar",
+    "address": "96 South St, New York",
+    "location": {
+      "lat": 40.7062237,
+      "lng": -74.00230669999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 AM – 10:00 PM",
+        "Saturday: 12:00 AM – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ]
+    },
+    "keyword_match": "cocktail"
+  },
+  {
+    "place_id": "ChIJ0yKXaB9awokR6WFqdEE9aBY",
+    "name": "1803 NYC",
+    "address": "82 Reade St, New York",
+    "location": {
+      "lat": 40.7154539,
+      "lng": -74.00733009999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJP-ez6JFZwokRmE9GgYPsvUA",
+    "name": "The Red Lion",
+    "address": "151 Bleecker St, New York",
+    "location": {
+      "lat": 40.7284307,
+      "lng": -73.9994517
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 10:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJGZt5BgFZwokRBdDmvypiwY0",
+    "name": "Roxy Bar",
+    "address": "2 6th Ave, New York",
+    "location": {
+      "lat": 40.7191553,
+      "lng": -74.0049587
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 2:00 AM",
+        "Friday: 7:00 AM – 2:00 AM",
+        "Saturday: 7:00 AM – 2:00 AM",
+        "Sunday: 7:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJV_vNLhRawokRt36u5nIPaVw",
+    "name": "Ulysses'",
+    "address": "58 Stone St, New York",
+    "location": {
+      "lat": 40.7044541,
+      "lng": -74.0100116
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 4:00 AM",
+        "Tuesday: 11:00 AM – 4:00 AM",
+        "Wednesday: 11:00 AM – 4:00 AM",
+        "Thursday: 11:00 AM – 4:00 AM",
+        "Friday: 11:00 AM – 4:00 AM",
+        "Saturday: 11:00 AM – 4:00 AM",
+        "Sunday: 11:00 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJLQUUOYZZwokR1BfSFbM-XB4",
+    "name": "The Bowery Ballroom",
+    "address": "6 Delancey St, New York",
+    "location": {
+      "lat": 40.7204065,
+      "lng": -73.9933583
+    },
+    "opening_hours": null,
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJB8cMrjBawokRbra8txwbBXg",
+    "name": "Bargemusic",
+    "address": "Brooklyn Brg, Brooklyn",
+    "location": {
+      "lat": 40.7031305,
+      "lng": -73.9952668
+    },
+    "opening_hours": null,
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJgx_u75FZwokRy5YwN6K5IG4",
+    "name": "LPR",
+    "address": "158 Bleecker St, New York",
+    "location": {
+      "lat": 40.72849739999999,
+      "lng": -74.0000452
+    },
+    "opening_hours": null,
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJKxkUct9ZwokRT2diRBnJEdE",
+    "name": "Baker Falls",
+    "address": "192 Allen St, New York",
+    "location": {
+      "lat": 40.7221885,
+      "lng": -73.9886167
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 2:00 AM",
+        "Tuesday: 12:00 PM – 2:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 3:00 AM",
+        "Saturday: 12:00 PM – 3:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJzRIEPo1ZwokRN9eigVZqU_c",
+    "name": "The Greene Space",
+    "address": "44 Charlton St, New York",
+    "location": {
+      "lat": 40.7269938,
+      "lng": -74.00513049999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJtSjFCfNZwokRMW-KSzp4o4c",
+    "name": "Ear Inn",
+    "address": "326 Spring St, New York",
+    "location": {
+      "lat": 40.7259222,
+      "lng": -74.0094833
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 4:00 AM",
+        "Tuesday: 11:30 AM – 4:00 AM",
+        "Wednesday: 11:30 AM – 4:00 AM",
+        "Thursday: 11:30 AM – 4:00 AM",
+        "Friday: 11:30 AM – 4:00 AM",
+        "Saturday: 11:30 AM – 4:00 AM",
+        "Sunday: 11:30 AM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJn-PPbBRawokR3o5lQeBaB_w",
+    "name": "Fraunces Tavern",
+    "address": "54 Pearl St, New York",
+    "location": {
+      "lat": 40.7034181,
+      "lng": -74.01136489999999
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 12:00 AM",
+        "Tuesday: 11:30 AM – 12:00 AM",
+        "Wednesday: 11:30 AM – 12:00 AM",
+        "Thursday: 11:30 AM – 12:00 AM",
+        "Friday: 11:30 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJw-s_gYNZwokR93EwQkUTGkE",
+    "name": "La Linea",
+    "address": "15 1st Ave, New York",
+    "location": {
+      "lat": 40.7235161,
+      "lng": -73.9885007
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 PM – 4:00 AM",
+        "Tuesday: 3:00 PM – 4:00 AM",
+        "Wednesday: 3:00 PM – 4:00 AM",
+        "Thursday: 3:00 PM – 4:00 AM",
+        "Friday: 3:00 PM – 4:00 AM",
+        "Saturday: 2:00 PM – 4:00 AM",
+        "Sunday: 2:00 PM – 4:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJd-JJsaFZwokRcv9CCDEcP0g",
+    "name": "Cork Wine Bar",
+    "address": "69 Thompson St, New York",
+    "location": {
+      "lat": 40.7244902,
+      "lng": -74.0032774
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJLX5S9ZpbwokRuhbbCZkqI2Y",
+    "name": "Peck Slip Social",
+    "address": "36 Peck Slip, New York",
+    "location": {
+      "lat": 40.7075517,
+      "lng": -74.0018035
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 – 11:00 PM",
+        "Tuesday: 3:00 PM – 12:00 AM",
+        "Wednesday: 3:00 PM – 12:00 AM",
+        "Thursday: 3:00 PM – 12:00 AM",
+        "Friday: 3:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 – 11:00 PM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJFf-pIIVZwokRPeulXUC6oqU",
+    "name": "The Bowery Electric",
+    "address": "327 Bowery, New York",
+    "location": {
+      "lat": 40.7257471,
+      "lng": -73.9917966
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 2:00 AM",
+        "Tuesday: 5:00 PM – 2:00 AM",
+        "Wednesday: 5:00 PM – 2:00 AM",
+        "Thursday: 5:00 PM – 3:00 AM",
+        "Friday: 5:00 PM – 4:00 AM",
+        "Saturday: 5:00 PM – 4:00 AM",
+        "Sunday: 5:00 PM – 2:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  },
+  {
+    "place_id": "ChIJYSFd6zNawokRpLteYhPEu_A",
+    "name": "Superfine",
+    "address": "126 Front St, Brooklyn",
+    "location": {
+      "lat": 40.7023726,
+      "lng": -73.9875072
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 2:00 PM – 1:00 AM",
+        "Wednesday: 12:00 PM – 1:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ]
+    },
+    "keyword_match": "live music"
+  }
+]
