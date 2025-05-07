@@ -6,8 +6,8 @@ import { Venue, VENUE_TYPE_COLORS } from '../types';
 import { isVenueOpenAt, isLateNightVenue } from '../hooks/useVenueFilters';
 import VenueCard from './VenueCard';
 
-// You'll need to replace this with your Mapbox access token
-mapboxgl.accessToken = 'pk.eyJ1IjoibG92YWJsZS1kZXYiLCJhIjoiY2xzbzgwbXl6MGpvNTJrcXMzbndhcm4waiJ9.e0nfRSUurl9brRJn3qVx8w';
+// Updated with your Mapbox access token
+mapboxgl.accessToken = 'pk.eyJ1Ijoicnlhbm1pbnRlcjA4IiwiYSI6ImNtOXN5endrbTA2MDMyaXBvdm1hNW96bmMifQ.qumSdswJwxqVGwqULikudw';
 
 interface MapProps {
   venues: Venue[];
