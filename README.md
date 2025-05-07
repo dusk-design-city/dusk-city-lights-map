@@ -1,73 +1,87 @@
-# Welcome to your Lovable project
+# Dusk - Urban Nightlife Intelligence Platform
 
-## Project info
+A map-based application that helps users explore nightlife venues by time and venue type. This project uses React, TypeScript, Mapbox GL, and Tailwind CSS.
 
-**URL**: https://lovable.dev/projects/bd1a5e1b-f1b7-45b8-a181-1fd2f315c271
+## Setup Instructions
 
-## How can I edit this code?
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Replace the Mapbox access token in `src/components/Map.tsx` with your own token
+4. Start the development server: `npm run dev`
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- Interactive dark-themed Mapbox map centered on Lower Manhattan
+- Venue markers with different colors based on venue type
+- Popup details showing venue information
+- Time-based filtering to display venues open at a selected time
+- Venue type filtering (bars, clubs, lounges, pubs, etc.)
+- Options to show only currently open venues or late-night venues
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bd1a5e1b-f1b7-45b8-a181-1fd2f315c271) and start prompting.
+## Replacing Placeholder Data
 
-Changes made via Lovable will be committed automatically to this repo.
+This application is set up with placeholder data. To replace it with your own data:
 
-**Use your preferred IDE**
+1. Replace the data in `src/data/sampleVenues.ts` with your actual venue data
+2. Ensure your data follows the same structure:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```json
+{
+  "place_id": "unique-id",
+  "name": "Venue Name",
+  "address": "Street Address",
+  "location": {
+    "lat": 40.7xxx,
+    "lng": -74.0xxx
+  },
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      // additional periods
+    ],
+    "weekday_text": [
+      "Monday: 12:00 PM – 2:00 AM",
+      // additional days
+    ]
+  },
+  "keyword_match": "bar" // or club, lounge, pub, etc.
+}
 ```
 
-**Edit a file directly in GitHub**
+3. If your data structure differs, you may need to update the interfaces in `src/types/index.ts` and the filtering logic in `src/hooks/useVenueFilters.tsx`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Adding More Venue Types
 
-**Use GitHub Codespaces**
+To add additional venue types:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Update the `VenueType` type in `src/types/index.ts`
+2. Add new entries to `VENUE_TYPES`, `VENUE_TYPE_COLORS`, and `VENUE_TYPE_LABELS` arrays
+3. The application will automatically include the new venue types in the filter panel
 
-## What technologies are used for this project?
+## Custom Map Styling
 
-This project is built with:
+The application uses Mapbox's "dark-v11" style. To customize the map further:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Create a custom style in Mapbox Studio (https://studio.mapbox.com/)
+2. Replace the style URL in `src/components/Map.tsx`:
+   ```javascript
+   map.current = new mapboxgl.Map({
+     container: mapContainer.current,
+     style: 'mapbox://styles/your-username/your-style-id',
+     // other options...
+   });
+   ```
 
-## How can I deploy this project?
+## Important Note
 
-Simply open [Lovable](https://lovable.dev/projects/bd1a5e1b-f1b7-45b8-a181-1fd2f315c271) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+You will need to sign up for a Mapbox account and get your own access token to use this application. The placeholder token will not work for production use.
